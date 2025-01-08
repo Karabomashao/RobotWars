@@ -3,7 +3,7 @@ ROBOT WARS
 
 DESCRIPTION:
 
-"Robot World" is a terminal game that allows players to launch a robot of their choice inside a virtual world and start battling with each other. The game involves various commands and actions players can take to control their robots, interact with the environment, and engage in combat with other robots. The gameplay mechanics include movement, attacks, defense strategies, and other features like upgrading robots or completing objectives within the game world.
+"Robot wars" is a terminal game that allows players to launch a robot of their choice inside a virtual world and start battling with each other. The game involves various commands and actions players can take to control their robots, interact with the environment, and engage in combat with other robots. The gameplay mechanics include movement, attacks, defense strategies, and other features like upgrading robots or completing objectives within the game world.
 
 
 
