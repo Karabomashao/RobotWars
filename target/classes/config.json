@@ -1,0 +1,46 @@
+{
+  "makes": {
+    "sniper": {
+      "maxShield": 4,
+      "maxShots": 5,
+      "maxVisibility": 45,
+      "maxBulletTravel": 50
+    },
+    "assassin": {
+      "maxShield": 3,
+      "maxShots": 15,
+      "maxVisibility": 20,
+      "maxBulletTravel": 25
+    },
+    "tank": {
+      "maxShield": 8,
+      "maxShots": 6,
+      "maxVisibility": 25,
+      "maxBulletTravel": 20
+    },
+    "spy": {
+      "maxShield": 2,
+      "maxShots": 10,
+      "maxVisibility": 20,
+      "maxBulletTravel": 15
+    },
+    "striker": {
+      "maxShield": 5,
+      "maxShots": 12,
+      "maxVisibility": 35,
+      "maxBulletTravel": 30
+    },
+    "commander": {
+      "maxShield": 6,
+      "maxShots": 10,
+      "maxVisibility": 40,
+      "maxBulletTravel": 25
+    },
+    "mabena": {
+      "maxShield": 2,
+      "maxShots": 3,
+      "maxVisibility": 15,
+      "maxBulletTravel": 10
+    }
+  }
+}

@@ -1,0 +1,6 @@
+#!/bin/bash
+
+CLASSPATH = "/usr/local/bin"
+
+
+java -cp "$CLASSPATH" java -cp Client.IncomingClient "$@"
